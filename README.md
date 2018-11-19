@@ -45,7 +45,7 @@
 * [How to write good tests](https://github.com/mockito/mockito/wiki/How-to-write-good-tests)
 * [Writing Better Tests With JUnit](https://blog.codecentric.de/en/2016/01/writing-better-tests-junit/)
 * [Three Reasons Why We Should Not Use Inheritance In Our Tests](https://www.petrikainulainen.net/programming/unit-testing/3-reasons-why-we-should-not-use-inheritance-in-our-tests/)
-* [Write awesome unit tests](https://speakerdeck.com/jeroenmols/write-awesome-unit-tests)
+* [Write awesome unit tests](https://speakerdeck.com/jeroenmols/write-awesome-unit-tests) ([Video](https://youtu.be/F8Gc8Nwf0yk))
 
 ## Misc
 
