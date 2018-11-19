@@ -36,6 +36,7 @@
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
 * [Functional Programming in Kotlin with Arrow](https://www.47deg.com/media/2018/10/15/raul-raja-kotlinconf-2018/)
 * [Functional architecture: a definition](http://blog.ploeh.dk/2018/11/19/functional-architecture-a-definition/)
+* [Arrow for Kotlin Presentations](https://www.youtube.com/playlist?list=PLTx-VKTe8yLwNy3oXbbwsQRwoS-G8mhEh)
 
 ## Testing
 
