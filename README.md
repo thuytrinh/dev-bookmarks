@@ -17,6 +17,7 @@
 * [Unidirectional data flow on Android using Kotlin: The blog post (part 1)](https://proandroiddev.com/unidirectional-data-flow-on-android-the-blog-post-part-1-cadcf88c72f5)
 * [Do Androids Dream of UI Testing?](https://arturdryomov.online/posts/do-androids-dream-of-ui-testing/)
 * [Kotlin coding style @ Ubie, Inc](https://github.com/ubie-inc/kotlin-coding-style)
+* [Keeping check on your Android Libraries with Danger & Bitrise](https://overflow.buffer.com/2018/10/26/keeping-check-on-your-android-libraries-with-danger-bitrise/)
 
 ## Project modularization
 
