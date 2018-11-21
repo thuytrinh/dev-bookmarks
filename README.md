@@ -53,6 +53,7 @@
 * [Inheritance is evil. Stop using it.](https://codeburst.io/inheritance-is-evil-stop-using-it-6c4f1caf5117)
 * [Mixins over Inheritance](http://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance/)
 * [IF YOU'RE SUBCLASSING, YOU'RE DOING IT WRONG](https://krakendev.io/blog/subclassing-can-suck-and-heres-why)
+* [Composition vs. Inheritance: How to Choose?](https://www.thoughtworks.com/de/insights/blog/composition-vs-inheritance-how-choose)
 
 ## Misc
 
