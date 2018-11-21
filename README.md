@@ -48,7 +48,7 @@
 * [Three Reasons Why We Should Not Use Inheritance In Our Tests](https://www.petrikainulainen.net/programming/unit-testing/3-reasons-why-we-should-not-use-inheritance-in-our-tests/)
 * [Write awesome unit tests](https://speakerdeck.com/jeroenmols/write-awesome-unit-tests) ([Video](https://youtu.be/F8Gc8Nwf0yk))
 
-# Inheritance
+## Inheritance
 
 * [Inheritance is evil. Stop using it.](https://codeburst.io/inheritance-is-evil-stop-using-it-6c4f1caf5117)
 * [Mixins over Inheritance](http://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance/)
