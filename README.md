@@ -48,10 +48,15 @@
 * [Three Reasons Why We Should Not Use Inheritance In Our Tests](https://www.petrikainulainen.net/programming/unit-testing/3-reasons-why-we-should-not-use-inheritance-in-our-tests/)
 * [Write awesome unit tests](https://speakerdeck.com/jeroenmols/write-awesome-unit-tests) ([Video](https://youtu.be/F8Gc8Nwf0yk))
 
+# Inheritance
+
+* [Inheritance is evil. Stop using it.](https://codeburst.io/inheritance-is-evil-stop-using-it-6c4f1caf5117)
+* [Mixins over Inheritance](http://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance/)
+* [IF YOU'RE SUBCLASSING, YOU'RE DOING IT WRONG](https://krakendev.io/blog/subclassing-can-suck-and-heres-why)
+
 ## Misc
 
 * https://carbon.now.sh/ to tweet with code image.
 * Software architect https://developertoarchitect.com/
 * [Code coverage is a useless target measure](http://blog.ploeh.dk/2015/11/16/code-coverage-is-a-useless-target-measure/)
 * [TASCHEN books](https://www.taschen.com/pages/de/catalogue/all_titles/index.alle_titel.htm?crt_page=1)
-* [Inheritance is evil. Stop using it.](https://codeburst.io/inheritance-is-evil-stop-using-it-6c4f1caf5117)
