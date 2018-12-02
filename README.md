@@ -47,6 +47,7 @@
 * [Writing Better Tests With JUnit](https://blog.codecentric.de/en/2016/01/writing-better-tests-junit/)
 * [Three Reasons Why We Should Not Use Inheritance In Our Tests](https://www.petrikainulainen.net/programming/unit-testing/3-reasons-why-we-should-not-use-inheritance-in-our-tests/)
 * [Write awesome unit tests](https://speakerdeck.com/jeroenmols/write-awesome-unit-tests) ([Video](https://youtu.be/F8Gc8Nwf0yk))
+* [Don’t be lazy, use @Rules](https://medium.com/@cortinico/dont-be-lazy-use-rules-95c68f4ecb8b)
 
 ## Inheritance
 
