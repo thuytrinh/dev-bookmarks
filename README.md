@@ -5,6 +5,7 @@
 * http://codeplease.io/2018/01/15/on-being-an-engineering-manager/.
 * [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 * [What are the steps to become a lead developer?](https://www.quora.com/What-are-the-steps-to-become-a-lead-developer)
+* [Scaling Engineering Teams via Writing Things Down and Sharing - aka RFCs](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)
 
 ## Android development
 
