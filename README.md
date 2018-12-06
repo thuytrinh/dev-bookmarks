@@ -28,6 +28,8 @@
 ## Git
 
 * [Get the latest tag in a git](https://gist.github.com/rponte/fdc0724dd984088606b0)
+* [nodegit examples](https://github.com/nodegit/nodegit/tree/master/examples)
+* [Create a pull request by octokit](https://octokit.github.io/rest.js/#api-Pulls-create)
 
 ## Reactive programming
 
