@@ -71,3 +71,4 @@
 * [TASCHEN books](https://www.taschen.com/pages/de/catalogue/all_titles/index.alle_titel.htm?crt_page=1)
 * [All you need is tools](https://ppinera.es/2018/11/25/all-you-need-is-tools.html)
 * [GRADLE INITIALIZR](https://gradle-initializr.cleverapps.io/)
+* [Better Code Reviews](http://www.bettercode.reviews/)
