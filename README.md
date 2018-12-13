@@ -19,7 +19,7 @@
 * [Do Androids Dream of UI Testing?](https://arturdryomov.online/posts/do-androids-dream-of-ui-testing/)
 * [Kotlin coding style @ Ubie, Inc](https://github.com/ubie-inc/kotlin-coding-style)
 * [Keeping check on your Android Libraries with Danger & Bitrise](https://overflow.buffer.com/2018/10/26/keeping-check-on-your-android-libraries-with-danger-bitrise/)
-* [Use Android’s ContentObserver in Your Code to Listen to Data Changes)(https://www.grokkingandroid.com/use-contentobserver-to-listen-to-changes/)
+* [Use ContentObserver in Your Code to Listen to Data Changes)(https://www.grokkingandroid.com/use-contentobserver-to-listen-to-changes/)
 
 ## Project modularization
 
