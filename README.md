@@ -35,6 +35,7 @@
 ## Reactive programming
 
 * [React 2014 : Erik Meijer - What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0)
+* [RX GLITCHES AREN'T ACTUALLY A PROBLEM](https://staltz.com/rx-glitches-arent-actually-a-problem.html)
 
 ## Functional programming
 
