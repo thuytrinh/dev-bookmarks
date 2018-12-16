@@ -43,6 +43,7 @@
 * [Functional Programming in Kotlin with Arrow](https://www.47deg.com/media/2018/10/15/raul-raja-kotlinconf-2018/)
 * [Functional architecture: a definition](http://blog.ploeh.dk/2018/11/19/functional-architecture-a-definition/)
 * [Arrow for Kotlin Presentations](https://www.youtube.com/playlist?list=PLTx-VKTe8yLwNy3oXbbwsQRwoS-G8mhEh)
+* [The Unreasonable Effectiveness of Metaphor](https://argumatronic.com/posts/2018-09-02-effective-metaphor.html)
 
 ## Testing
 
