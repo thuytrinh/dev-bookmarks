@@ -20,6 +20,7 @@
 * [Kotlin coding style @ Ubie, Inc](https://github.com/ubie-inc/kotlin-coding-style)
 * [Keeping check on your Android Libraries with Danger & Bitrise](https://overflow.buffer.com/2018/10/26/keeping-check-on-your-android-libraries-with-danger-bitrise/)
 * [Use ContentObserver in Your Code to Listen to Data Changes](https://www.grokkingandroid.com/use-contentobserver-to-listen-to-changes/)
+* [How to maximize Android’s UI reusability — 5 common mistakes](https://proandroiddev.com/how-to-maximize-androids-ui-reusability-5-common-mistakes-cb2571216a9f)
 
 ## Project modularization
 
