@@ -45,6 +45,7 @@
 * [Functional architecture: a definition](http://blog.ploeh.dk/2018/11/19/functional-architecture-a-definition/)
 * [Arrow for Kotlin Presentations](https://www.youtube.com/playlist?list=PLTx-VKTe8yLwNy3oXbbwsQRwoS-G8mhEh)
 * [The Unreasonable Effectiveness of Metaphor](https://argumatronic.com/posts/2018-09-02-effective-metaphor.html)
+* [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 
 ## Testing
 
