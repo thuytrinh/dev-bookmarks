@@ -46,6 +46,7 @@
 * [Arrow for Kotlin Presentations](https://www.youtube.com/playlist?list=PLTx-VKTe8yLwNy3oXbbwsQRwoS-G8mhEh)
 * [The Unreasonable Effectiveness of Metaphor](https://argumatronic.com/posts/2018-09-02-effective-metaphor.html)
 * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
+* [Tuple bifunctor](http://blog.ploeh.dk/2018/12/31/tuple-bifunctor/)
 
 ## Testing
 
