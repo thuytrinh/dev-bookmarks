@@ -81,3 +81,4 @@
 - [All you need is tools](https://ppinera.es/2018/11/25/all-you-need-is-tools.html)
 - [GRADLE INITIALIZR](https://gradle-initializr.cleverapps.io/)
 - [Better Code Reviews](http://www.bettercode.reviews/)
+- http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2019-01.html#e2019-01-08T14_10_04.htm
