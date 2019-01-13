@@ -82,3 +82,4 @@
 - [GRADLE INITIALIZR](https://gradle-initializr.cleverapps.io/)
 - [Better Code Reviews](http://www.bettercode.reviews/)
 - http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2019-01.html#e2019-01-08T14_10_04.htm
+- [Define a general guidance for tech projects quality assurance at Karumi](https://github.com/Karumi/project-quality-assurance)
