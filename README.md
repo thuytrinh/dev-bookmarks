@@ -68,9 +68,10 @@
 - [IF YOU'RE SUBCLASSING, YOU'RE DOING IT WRONG](https://krakendev.io/blog/subclassing-can-suck-and-heres-why)
 - [Composition vs. Inheritance: How to Choose?](https://www.thoughtworks.com/de/insights/blog/composition-vs-inheritance-how-choose)
 
-## Shell scripts
+## DevOps
 
 - [A shell parser, formatter and interpreter (POSIX/Bash/mksh)](https://github.com/mvdan/sh)
+- [CI/CD Tools Throwdown: Jenkins vs. TeamCity vs. Bamboo](https://stackify.com/jenkins-teamcity-bamboo/)
 
 ## Misc
 
