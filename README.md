@@ -32,6 +32,7 @@
 - [Three Reasons Why We Should Not Use Inheritance In Our Tests](https://www.petrikainulainen.net/programming/unit-testing/3-reasons-why-we-should-not-use-inheritance-in-our-tests/)
 - [Write awesome unit tests](https://speakerdeck.com/jeroenmols/write-awesome-unit-tests) ([Video](https://youtu.be/F8Gc8Nwf0yk))
 - [Don’t be lazy, use @Rules](https://medium.com/@cortinico/dont-be-lazy-use-rules-95c68f4ecb8b)
+- [Unit testing best practices with .NET Core and .NET Standard](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices)
 
 ## Project modularization
 
