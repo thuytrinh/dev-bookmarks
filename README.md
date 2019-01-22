@@ -6,6 +6,7 @@
 - [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 - [What are the steps to become a lead developer?](https://www.quora.com/What-are-the-steps-to-become-a-lead-developer)
 - [Scaling Engineering Teams via Writing Things Down and Sharing - aka RFCs](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)
+- [How to Debate Ideas Productively at Work](https://hbr.org/2019/01/how-to-debate-ideas-productively-at-work)
 
 ## Android development
 
