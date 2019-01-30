@@ -88,3 +88,4 @@
 - [Define a general guidance for tech projects quality assurance at Karumi](https://github.com/Karumi/project-quality-assurance)
 - [Feature Toggles (aka Feature Flags)](https://martinfowler.com/articles/feature-toggles.html)
 - [Awesome Developer Streams](https://github.com/bnb/awesome-developer-streams)
+- [What does it mean when code is “easy to reason about”?](https://medium.freecodecamp.org/what-does-it-mean-when-code-is-easy-to-reason-about-4e6f63eb386f)
