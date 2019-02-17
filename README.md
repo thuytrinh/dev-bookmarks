@@ -11,11 +11,8 @@
 ## Android development
 
 - [Polymorphic Deserialization with Moshi](http://blog.nightlynexus.com/polymorphic-deserialization-with-moshi/)
-- Lessons learned implementing Redux on Android https://blog.pusher.com/lessons-learned-implementing-redux-on-android/
-- https://github.com/ReKotlin/ReKotlin
-- https://stackoverflow.com/questions/35305661/where-to-write-to-localstorage-in-a-redux-app
-- Persisting the State to the Local Storage https://adrianarlett.gitbooks.io/idiomatic-redux-by-dan-abramov/content/persisting-the-state-to-the-local-storage.html
-- https://egghead.io/lessons/javascript-redux-persisting-the-state-to-the-local-storage
+- [Lessons learned implementing Redux on Android](https://blog.pusher.com/lessons-learned-implementing-redux-on-android)
+- [Unidirectional Data Flow in Kotlin](https://github.com/ReKotlin/ReKotlin)
 - [Unidirectional data flow on Android using Kotlin: The blog post (part 1)](https://proandroiddev.com/unidirectional-data-flow-on-android-the-blog-post-part-1-cadcf88c72f5)
 - [Kotlin coding style @ Ubie, Inc](https://github.com/ubie-inc/kotlin-coding-style)
 - [Keeping check on your Android Libraries with Danger & Bitrise](https://overflow.buffer.com/2018/10/26/keeping-check-on-your-android-libraries-with-danger-bitrise/)
