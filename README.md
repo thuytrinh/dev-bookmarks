@@ -19,6 +19,10 @@
 - [Use ContentObserver in Your Code to Listen to Data Changes](https://www.grokkingandroid.com/use-contentobserver-to-listen-to-changes/)
 - [How to maximize Android’s UI reusability — 5 common mistakes](https://proandroiddev.com/how-to-maximize-androids-ui-reusability-5-common-mistakes-cb2571216a9f)
 
+## Flutter
+
+- [Flutter State Management Guide](https://fireship.io/lessons/flutter-state-management-guide/)
+
 ## Automation tests
 
 - [A view on testing Android apps](https://proandroiddev.com/writing-integration-tests-in-android-b0436978ed7b)
