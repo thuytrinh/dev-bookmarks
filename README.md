@@ -37,6 +37,7 @@
 - [Don’t be lazy, use @Rules](https://medium.com/@cortinico/dont-be-lazy-use-rules-95c68f4ecb8b)
 - [Unit testing best practices with .NET Core and .NET Standard](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices)
 - [Toehold Test](https://publicobject.com/2019/02/17/toehold-test/)
+- [Test Doubles — Fakes, Mocks and Stubs.](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
 
 ## Project modularization
 
