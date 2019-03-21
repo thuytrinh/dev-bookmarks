@@ -38,6 +38,7 @@
 - [Unit testing best practices with .NET Core and .NET Standard](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices)
 - [Toehold Test](https://publicobject.com/2019/02/17/toehold-test/)
 - [Test Doubles — Fakes, Mocks and Stubs.](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
+- [But Testing Sucks!](https://jlengstorf.github.io/presentations/building-quality-driven-culture/#/)
 
 ## Project modularization
 
