@@ -8,6 +8,7 @@
 - [Scaling Engineering Teams via Writing Things Down and Sharing - aka RFCs](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)
 - [How to Debate Ideas Productively at Work](https://hbr.org/2019/01/how-to-debate-ideas-productively-at-work)
 - [Don’t lead by example](https://blogs.dropbox.com/tech/2019/02/dont-lead-by-example/)
+- [Embracing Papercuts](https://medium.com/@jamesacowling/embracing-papercuts-e6390055dfc4)
 
 ## Android development
 
