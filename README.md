@@ -22,6 +22,7 @@
 - [Use ContentObserver in Your Code to Listen to Data Changes](https://www.grokkingandroid.com/use-contentobserver-to-listen-to-changes/)
 - [How to maximize Android’s UI reusability — 5 common mistakes](https://proandroiddev.com/how-to-maximize-androids-ui-reusability-5-common-mistakes-cb2571216a9f)
 - [How To do Video Streaming on Android Offline Using WiDi](https://coteries.com/2018/04/10/video-streaming-android-offline-widi/)
+- [Consistency is Key - Working with a design system](https://speakerdeck.com/marianeum/consistency-is-key-working-with-a-design-system)
 
 ## Flutter
 
