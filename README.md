@@ -24,6 +24,10 @@
 - [How To do Video Streaming on Android Offline Using WiDi](https://coteries.com/2018/04/10/video-streaming-android-offline-widi/)
 - [Consistency is Key - Working with a design system](https://speakerdeck.com/marianeum/consistency-is-key-working-with-a-design-system)
 
+## Kotlin Multiplatform
+
+- [MVP in Kotlin Multiplatform](https://medium.com/@liewjuntung/mvp-in-kotlin-multiplatform-4b828f18ed63)
+
 ## Flutter
 
 - [Flutter State Management Guide](https://fireship.io/lessons/flutter-state-management-guide/)
