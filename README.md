@@ -104,3 +104,4 @@
 - [What does it mean when code is “easy to reason about”?](https://medium.freecodecamp.org/what-does-it-mean-when-code-is-easy-to-reason-about-4e6f63eb386f)
 - [The Wrong Abstraction](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 - [Working with a Counterpart](https://overcast.fm/+QswaI7Rko)
+- [Slack Is Not Where 'Deep Work' Happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens)
