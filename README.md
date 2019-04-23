@@ -10,6 +10,7 @@
 - [Don’t lead by example](https://blogs.dropbox.com/tech/2019/02/dont-lead-by-example/)
 - [Embracing Papercuts](https://medium.com/@jamesacowling/embracing-papercuts-e6390055dfc4)
 - [The Senior Engineer’s Guide to Helping Others Make Decisions](https://silverwraith.com/blog/2017/10/the-senior-engineers-guide-to-helping-others-make-decisions/)
+- [Ideas for a healthier engineering environment](https://alsutton.blog/post/healthy-engineering/)
 
 ## Android development
 
